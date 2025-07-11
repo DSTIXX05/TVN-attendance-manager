@@ -12,13 +12,16 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
+    "@types/mongoose": "^5.11.96",
     "nodemon": "^3.1.10",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
   },
   "dependencies": {
     "cross-env": "^7.0.3",
+    "dotenv": "^17.2.0",
     "express": "^5.1.0",
+    "mongoose": "^8.16.3",
     "ts-node": "^10.9.2"
   }
 }
